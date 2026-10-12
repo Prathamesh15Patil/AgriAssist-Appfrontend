@@ -304,6 +304,3 @@ Enter a location before searching. Results depend on the upstream soil-lab servi
 - Add request validation, rate limiting, authentication, and observability before production deployment.
 - Expand language coverage and provide more voice-first workflows.
 
-## License
-
-No project license has been declared yet. Add a license before distributing Agrivision outside the project team.
